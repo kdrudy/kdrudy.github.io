@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Infinite Improbability
 tagline:          'Pure Imagination'
 description:      'Blog for kyru'
-url:              http://kdrudy.github.io
+url:              http://kdrudy.github.io/
 baseurl:          /
 
 author:
